@@ -26,16 +26,6 @@ Here are some ideas to get you started:
 
 
 
-### 关于我：
-
-`name`：`Aceld(刘丹冰)`
-
-`mail`:
-[danbing.at@gmail.com](mailto:danbing.at@gmail.com)
-
-`github`:
-[https://github.com/aceld](https://github.com/aceld)
-
 `原创书籍`:
 [https://www.kancloud.cn/@aceld](https://www.kancloud.cn/@aceld)
 
