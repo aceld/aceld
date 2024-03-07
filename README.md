@@ -8,8 +8,13 @@
 <br/>
 Home:
 https://yuque.com/aceld
-</div>
+<br/>
+<br/>
 
+**WeChat**
+
+<img src="https://s1.ax1x.com/2020/07/07/UFyUdx.th.jpg" height = "150"  alt="" align=center /> 
+</div>
 
 
 
